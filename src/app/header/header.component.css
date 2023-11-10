@@ -1,0 +1,20 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.banner_image img{
+    width: 25.625rem;
+    height: 25.625rem;
+}
+
+.banner_text{
+    width: 25.625rem;
+}
+
+.text{
+    text-align: center;
+    width: 23.625rem;
+}
